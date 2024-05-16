@@ -1,0 +1,3 @@
+[submodule "projects/AdelaiDet"]
+	path = projects/AdelaiDet
+	url = git@github.com:aim-uofa/AdelaiDet.git
